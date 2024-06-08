@@ -89,8 +89,8 @@
       "type": "string"
     },
     {
-      "displayName": "localei",
-      "name": "localei",
+      "displayName": "locale",
+      "name": "locale",
       "type": "string"
     },
     {
@@ -128,8 +128,8 @@
       "type": "string"
     },
     {
-      "displayName": "internalod",
-      "name": "internalod",
+      "displayName": "internalId",
+      "name": "internalId",
       "type": "string"
     },
     {
