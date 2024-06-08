@@ -89,8 +89,8 @@
       "type": "string"
     },
     {
-      "displayName": "locale",
-      "name": "locale",
+      "displayName": "localei",
+      "name": "localei",
       "type": "string"
     },
     {
