@@ -128,8 +128,8 @@
       "type": "string"
     },
     {
-      "displayName": "internalId",
-      "name": "internalId",
+      "displayName": "internalod",
+      "name": "internalod",
       "type": "string"
     },
     {
